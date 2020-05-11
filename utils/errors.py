@@ -1,0 +1,2 @@
+class InvaildOperation(Exception):
+    pass
