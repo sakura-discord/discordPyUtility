@@ -4,3 +4,5 @@ class InvaildOperation(Exception):
 class InvaildArgument(Exception):
     pass
 
+class MissingRequiredArgument(Exception):
+    pass
